@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola bienvenido al GitHub de Joaquin Spuches👋
+
+## Todos los dias intento ponerme a prueba con nuevos desafios y disfruto poder resolverlos. 
 <img src="https://github-readme-stats.vercel.app/api?username=joaquinSpuches&show_icons=true&theme=dark" width="400">
 
 
