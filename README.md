@@ -1,6 +1,6 @@
 ### Hola bienvenido al GitHub de Joaquin Spuches👋
 
-#### Todos los dias intento ponerme a prueba con nuevos desafios y disfruto poder resolverlos. 
+#### Todos los dias intento ponerme a prueba con nuevos desafios y disfruto poder resolverlos. Soy un desarrollador fullstack que esta mas interesado en el area de Front end, me gusta la tecnologia y mi meta es vivir de trabajar en el mundo IT.
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=joaquinSpuches&show_icons=true&theme=dark" width="400" >
 </p>
